@@ -1,3 +1,4 @@
+// Map => Morph(M) Array(A) Piece-by-Piece(P)
 // Array Mapping:
 const numbers = [10, 20, 30, 40, 50];
 
