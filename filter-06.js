@@ -19,3 +19,4 @@ const products = [
 
 const expensive = products.filter(product => product.price > 25000);
 console.log(expensive);
+
